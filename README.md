@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on YDECODE Cybersecurity Project.<br>👯 I’m looking to collaborate on het.10mehta@gmail.com<br>🌱 I’m a B.Tech Computer Science 3rd year student, specializing in cybersecurity.<br>⚡"I don’t just surf the web — I inspect its source code, check for vulnerabilities, and silently judge its lack of HTTPS." 💻🔒🕵️‍♂️
+🔭 I’m currently working on YDECODE & TraceForze Cybersecurity Project.<br>👯 I’m looking to collaborate on het.10mehta@gmail.com<br>🌱 I’m a B.Tech Computer Science 4th year student, specializing in cybersecurity.<br>⚡"I don’t just surf the web - I inspect its source code, check for vulnerabilities, and silently judge its lack of HTTPS." 💻🔒🕵️‍♂️
 
 
 ## 🌐 Socials:
